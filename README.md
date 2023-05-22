@@ -10,7 +10,7 @@
 ## Intro
 - self taught dev, graphic designer & editor.
 - avid gamer.
-- like data.
+- like working w/ data.
 - https://mithikayl.com.
 
 ## Languages
