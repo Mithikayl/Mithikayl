@@ -10,10 +10,8 @@
 ## Intro
 - self taught dev, graphic designer & editor.
 - avid gamer.
-- data nerd.
+- like data.
 - https://mithikayl.com.
-- mith#3073.
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mithikayl.visitor-badge)
 
 ## Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
